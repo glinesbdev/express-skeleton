@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-architecture",
+  "name": "express-skeleton",
   "version": "1.0.0",
-  "description": "Example on how to better architect your express APIs",
+  "description": "Skeleton starting point for an express app",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --watch app app/index.js",
