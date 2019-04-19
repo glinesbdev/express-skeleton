@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-architecture",
+  "version": "1.0.0",
+  "description": "Example on how to better architect your express APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "rest",
+    "architecture"
+  ],
+  "author": "Bendyworks",
+  "license": "ISC"
+}
