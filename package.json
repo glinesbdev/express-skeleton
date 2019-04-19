@@ -4,6 +4,7 @@
   "description": "Example on how to better architect your express APIs",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon --watch app app/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -14,5 +15,9 @@
     "architecture"
   ],
   "author": "Bendyworks",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  }
 }
